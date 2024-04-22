@@ -26,7 +26,7 @@ Easily and quickly add new tasks to your to-do list. Simply enter a case descrip
 
 ## Video
 
-[![Example](/assets/TODO.png)](/assets/TODO.mov)
+[![Example](/assets/TODO.png)](https://github.com/RushMarina/FLUTTER-TODO-List/assets/150655218/6c879555-60e4-41a3-b06c-7587a49e4de4)
 
 ___
 [Up](#anchor)
